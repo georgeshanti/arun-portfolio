@@ -1,0 +1,26 @@
+.home{
+	width: 100%;
+	min-height: 100vh;
+	background: green;
+	color: white;
+}
+
+.section{
+	width: 50%;
+	display: inline-block;
+	text-align: center;
+
+	.h1{
+		font-size: 20px;
+	}
+
+	.p{
+		font-size: 15px;
+	}
+}
+
+.profilePic{
+	border-style: solid;
+	border-radius: 100%;
+	width: 300px;
+}
